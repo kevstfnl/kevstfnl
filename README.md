@@ -8,7 +8,7 @@ Hello! My name is Stefanelli Kevin, and I am a **web developer in training** at 
     <ul style="padding-left: 28px;">
       <li >HTML5 / CSS3</li>
       <li>JavaScript / TypeScript</li>
-      <li>TailwindCSS, UnoCSS</li>
+      <li>TailwindCSS, UnoCSS, Sass</li>
     </ul>
   </div>
   <div>
