@@ -24,7 +24,8 @@ Hello! My name is Stefanelli Kevin, and I am a **web developer in training** at 
 
 ### Other:
 - Version control with Git and GitHub  
-- Basic usage and management of Linux systems  
+- Basic usage and management of Linux systems
+- Basic usage for deployment with Docker
 
 ## 🎯 Roadmap:  
   - **React** and **Angular** for front-end development  
