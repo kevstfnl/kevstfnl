@@ -15,7 +15,7 @@ Hello! My name is Stefanelli Kevin, and I am a **web developer in training** at 
     <h3>Backend:</h3>
     <ul style="padding-left: 28px;">
       <li>Java</li>
-      <li>NodeJS</li>
+      <li>NodeJS (Express, Twig, Prisma, Mongoose)</li>
       <li>PHP</li>
       <li>Databases: SQL (MySQL) and NoSQL (MongoDB, Redis)</li>
     </ul>
