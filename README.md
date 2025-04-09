@@ -1,5 +1,5 @@
 # 🌟 Welcome !  
-Hello! My name is Stefanelli Kevin, and I am a **web developer in training** at **RI7**, a development school in France.  
+Hello! My name is Stefanelli Kevin, and I am a **web developer in stage** at **RI7**, a development school in France.  
 
 ## 🛠️ Skills:  
 <div style="display: flex; gap: 16px">
@@ -8,6 +8,7 @@ Hello! My name is Stefanelli Kevin, and I am a **web developer in training** at 
     <ul style="padding-left: 28px;">
       <li >HTML5 / CSS3</li>
       <li>JavaScript / TypeScript</li>
+      <li>React</li>
       <li>TailwindCSS, UnoCSS, Sass</li>
     </ul>
   </div>
@@ -16,7 +17,7 @@ Hello! My name is Stefanelli Kevin, and I am a **web developer in training** at 
     <ul style="padding-left: 28px;">
       <li>Java (Spring soon...)</li>
       <li>NodeJS (Express, Twig, Prisma, Mongoose)</li>
-      <li>PHP</li>
+      <li>PHP (Symfony)</li>
       <li>Databases: SQL (MySQL, MariaDB) and NoSQL (MongoDB, Redis)</li>
     </ul>
   </div>
@@ -28,8 +29,7 @@ Hello! My name is Stefanelli Kevin, and I am a **web developer in training** at 
 - Basic usage for deployment with Docker
 
 ## 🎯 Roadmap:  
-  - **React** and **Angular** for front-end development  
-  - **Dart** (with Flutter) for cross-platform mobile development  
+  - **SolidJS** and **Angular** for front-end development  
   - **Golang** for efficient and scalable back-end solutions 
   - ***Rust, BrainFuck, and Assembly**, because who doesn’t love a good challenge 💀 ?* 
 
