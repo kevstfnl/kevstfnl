@@ -1,6 +1,6 @@
 # 🌟 Bienvenue sur mon github !
 
-👋 Je m'appelle **Kevin Stefanelli**,
+Je m'appelle **Kevin Stefanelli**,
 Je suis **développeur web** en alternance chez **Ri7**, une école spécialisée dans la programmation web.
 
 Je prépare actuellement le diplôme de **Concepteur Développeur d'Applications**.
