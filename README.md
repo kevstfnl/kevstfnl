@@ -70,6 +70,6 @@ N'hésitez pas à jeter un œil à mes projets pour en savoir plus !
 
 ## 📊 Statistiques
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevstfnl&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=kevstfnl&theme=monokai&column=6&row=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevstfnl&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=kevstfnl&theme=monokai&column=6&row=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="180" alt="trophy graph"/>
 </div>
