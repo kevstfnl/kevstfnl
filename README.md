@@ -19,6 +19,7 @@ N'hésitez pas à jeter un œil à mes projets pour en savoir plus !
 ## 🛠️ Mes compétences & technologies maitrisées
 
 ### Langages de programmation
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript logo"/>
@@ -27,6 +28,7 @@ N'hésitez pas à jeter un œil à mes projets pour en savoir plus !
 </div>
 
 ### Frameworks et bibliothèques
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo"/>
@@ -42,6 +44,7 @@ N'hésitez pas à jeter un œil à mes projets pour en savoir plus !
 </div>
 
 ### Outils et environnements
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql logo"/>
@@ -60,6 +63,7 @@ N'hésitez pas à jeter un œil à mes projets pour en savoir plus !
 </div>
 
 ## 🎯 Objectifs à venir
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="42" alt="graphql logo"/>
   <img src="https://skillicons.dev/icons?i=rust" height="42" alt="rust logo"/>
@@ -69,6 +73,7 @@ N'hésitez pas à jeter un œil à mes projets pour en savoir plus !
 **Brainfuck** et **Assembleur**, parce que qui n’aime pas un bon défi 💀 ?
 
 ## 📊 Statistiques
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevstfnl&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"/>
   <img src="https://github-profile-trophy.vercel.app?username=kevstfnl&theme=monokai&column=6&row=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="180" alt="trophy graph"/>
